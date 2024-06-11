@@ -1,6 +1,6 @@
 # Recursive Web Scraper with Selenium and BeautifulSoup
 
-This repository contains a Python script that recursively scrapes text from a website using Selenium for navigation and BeautifulSoup for parsing HTML content. The script extracts text from the given URL and all linked pages within the same domain.
+This repository contains a Python script that recursively scrapes text from a website using Selenium for navigation and BeautifulSoup for parsing HTML content. The script extracts text from the URL and all linked pages within the same domain.
 
 ## Features
 
